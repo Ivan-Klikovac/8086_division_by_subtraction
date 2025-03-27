@@ -5,4 +5,4 @@
  
  The quotient is stored in AX, and the remainder in DX.
 
- It showcases decimal number parsing in assembly, and the use of procedures.
+ It showcases decimal number parsing and printing in assembly, and the use of procedures.
